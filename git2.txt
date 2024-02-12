@@ -1,3 +1,4 @@
-yeah ...its git2
-
 understanding merging
+now understand rebase
+
+rebase
