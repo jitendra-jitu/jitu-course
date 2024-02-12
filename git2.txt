@@ -1,1 +1,3 @@
 yeah ...its git2
+
+understanding merging
